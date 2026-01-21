@@ -1,10 +1,6 @@
-<br />
-
 <p align="center" margin="10px">
   <img src="../Stacklab-Img.png" alt="Stacklab Banner" />
 </p>
-
-<br />
 
 # Stacklab - Digital Solution & Web Agency
 ## About
